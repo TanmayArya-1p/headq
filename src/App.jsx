@@ -9,6 +9,7 @@ function App() {
 
   return (
     <>
+    <title>~</title>
     <Navbar/>
     <SparklesBackground/>
     </>
