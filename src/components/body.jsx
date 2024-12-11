@@ -36,7 +36,7 @@ function Button({ children, icon, url }) {
 
 export function SparklesBackground() {
     return (
-        <div className="h-[56rem] relative w-full bg-black flex flex-col items-center justify-center overflow-hidden">
+        <div className="h-[42rem] relative w-full bg-black flex flex-col items-center justify-center overflow-hidden">
             <div className="w-full absolute inset-0 h-screen">
                 <SparklesCore
                     id="tsparticlesfullpage"
